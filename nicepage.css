@@ -35329,6 +35329,12 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         margin-top: 20px;
         margin-bottom: 20px;
+        font-size: 1.25rem;
+        line-height: 1.8;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        font-family: BemboStd;
+        font-weight: 400;
         }
         .u-btn
         {
@@ -35528,17 +35534,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-sheet-1 {
   min-height: 80px;
-}
-
-.u-header .u-image-1 {
-  width: 64px;
-  height: 32px;
-  margin: 22px auto 26px 0;
-}
-
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
 }
 
 
